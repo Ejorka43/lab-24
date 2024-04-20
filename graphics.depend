@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1713616140 source:c:\users\ejork\onedrive\Рабочий стол\c\graphics\graphic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<graphics.h>
+	"base.h"
+
+1713616420 source:c:\users\ejork\onedrive\Рабочий стол\c\graphics\addanddelete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"base.h"
+
+1712943673 c:\users\ejork\onedrive\Рабочий стол\c\graphics\base.h
+
+1713616238 source:c:\users\ejork\onedrive\Рабочий стол\c\graphics\saveandread.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"base.h"
+
+1712940178 source:c:\users\ejork\onedrive\Рабочий стол\c\graphics\sort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"base.h"
+
+1713616301 source:c:\users\ejork\onedrive\Рабочий стол\c\graphics\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"base.h"
+	"AddDel.h"
+	"graph.h"
+	"SaveRead.h"
+	"Sorth.h"
+	<graphics.h>
+
+1712940268 c:\users\ejork\onedrive\Рабочий стол\c\graphics\adddel.h
+
+1712940444 c:\users\ejork\onedrive\Рабочий стол\c\graphics\graph.h
+
+1713616025 c:\users\ejork\onedrive\Рабочий стол\c\graphics\saveread.h
+
+1712940387 c:\users\ejork\onedrive\Рабочий стол\c\graphics\sorth.h
+
+1712944198 source:c:\users\ejork\onedrive\Рабочий стол\c\graphics\table.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"base.h"
+
